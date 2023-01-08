@@ -319,4 +319,6 @@ span.copyright {
 }
 h1 {
     color: deeppink;
-}
+}html{
+    scroll-behavior: smooth;
+  }
