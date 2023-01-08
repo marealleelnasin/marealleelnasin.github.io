@@ -434,7 +434,7 @@ section {
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #3b434a;
+  color: magenta;
   position: relative;
   z-index: 2;
 }
@@ -456,6 +456,7 @@ section {
   margin-bottom: 0;
   position: relative;
   z-index: 2;
+  color: orangered;
 }
 
 @media (max-width: 575px) {
@@ -593,7 +594,7 @@ section {
   margin: 0 0 0 50px;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
-  color: #5d6a75;
+  color: purple;
 }
 
 .about .content .count-box a {
@@ -759,6 +760,7 @@ section {
   font-size: 15px;
   line-height: 28px;
   margin-bottom: 0;
+  color: deeppink
 }
 
 .services .icon-box:hover {
@@ -965,6 +967,7 @@ section {
   opacity: 1;
 }
 
+
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
@@ -1170,6 +1173,7 @@ section {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
+  color: deeppink;
 }
 
 .contact .social-links {
