@@ -656,6 +656,7 @@ section {
   height: 10px;
   transition: 0.9s;
   background-color: #ffb727;
+
 }
 
 /*--------------------------------------------------------------
@@ -784,6 +785,7 @@ section {
   background-position: center center;
   background-size: cover;
   position: relative;
+  margin-top: 80px;
 }
 
 .testimonials::before {
@@ -1324,6 +1326,7 @@ section {
   text-align: center;
   padding: 80px 0;
   position: relative;
+  margin-top: 30px;
 }
 
 #footer::before {
@@ -1380,12 +1383,4 @@ section {
   background: #f3a200;
   color: #fff;
   text-decoration: none;
-}
-
-#footer .copyright {
-  margin: 0 0 5px 0;
-}
-
-#footer .credits {
-  font-size: 13px;
 }
